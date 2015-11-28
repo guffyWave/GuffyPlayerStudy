@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:17:1-71:12
+	xmlns:android
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:17:11-69
+	package
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:18:5-46
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:22:5-24:41
+	android:targetSdkVersion
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:24:9-38
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:23:9-34
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:26:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:27:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:28:22-77
+application
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:30:5-70:19
+	android:label
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:32:9-42
+	android:icon
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.musicplayer.MainActivity
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:36:13-46
+	android:theme
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:40:27-74
+service#com.example.android.musicplayer.MusicService
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:44:9-59:19
+	android:exported
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:45:13-41
+intent-filter#com.example.android.musicplayer.action.PAUSE+com.example.android.musicplayer.action.PLAY+com.example.android.musicplayer.action.REWIND+com.example.android.musicplayer.action.SKIP+com.example.android.musicplayer.action.STOP+com.example.android.musicplayer.action.TOGGLE_PLAYBACK
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:47:13-54:29
+action#com.example.android.musicplayer.action.TOGGLE_PLAYBACK
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:48:17-97
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:48:25-94
+action#com.example.android.musicplayer.action.PLAY
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:49:17-86
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:49:25-83
+action#com.example.android.musicplayer.action.PAUSE
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:50:17-87
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:50:25-84
+action#com.example.android.musicplayer.action.SKIP
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:51:17-86
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:51:25-83
+action#com.example.android.musicplayer.action.REWIND
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:52:17-88
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:52:25-85
+action#com.example.android.musicplayer.action.STOP
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:53:17-86
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:53:25-83
+intent-filter#com.example.android.musicplayer.action.URL
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:55:13-58:29
+action#com.example.android.musicplayer.action.URL
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:56:25-82
+data
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:57:17-47
+	android:scheme
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:57:23-44
+receiver#com.example.android.musicplayer.MusicIntentReceiver
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:61:9-68:20
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:61:19-54
+intent-filter#android.media.AUDIO_BECOMING_NOISY
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:62:13-64:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:63:25-74
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:65:13-67:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/AndroidManifest.xml:66:25-74

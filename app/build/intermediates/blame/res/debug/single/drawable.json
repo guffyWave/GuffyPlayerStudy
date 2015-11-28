@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_eject.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_eject.xml"
+    },
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_play.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_play.xml"
+    },
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_stop.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_stop.xml"
+    },
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_ff.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_ff.xml"
+    },
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_rew.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_rew.xml"
+    },
+    {
+        "merged": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/build/intermediates/res/merged/debug/drawable/btn_pause.xml",
+        "source": "/home/gufran/AndroidStudioProjects/development-master-samples-RandomMusicPlayer/app/src/main/res/drawable/btn_pause.xml"
+    }
+]
